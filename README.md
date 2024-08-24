@@ -1,3 +1,4 @@
+```plaintext
 az-900-study/
 │
 ├── README.md
